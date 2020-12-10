@@ -1,2 +1,1 @@
-echo "# php-ecdellanhol" >> README.md
-git init
+<h1>Estou aprendendo como subir um sistema em produção</h1>
